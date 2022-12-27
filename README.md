@@ -1,4 +1,4 @@
-# w3_wallet
+# aura_wallet
 
 A new Flutter project.
 
