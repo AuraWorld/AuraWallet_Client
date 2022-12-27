@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "491532526871",
+    "project_id": "w3-wallet",
+    "storage_bucket": "w3-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491532526871:android:a8be6cfd8c6eb13c624352",
+        "android_client_info": {
+          "package_name": "web3games.w3_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491532526871-eedd894sr1uggrv2f12u45fdgu80hrqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CRUHmTWPcjTyRwBn1hb6v9TcSYQ0L0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491532526871-eedd894sr1uggrv2f12u45fdgu80hrqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491532526871-4t30n813tm32i8q9smtl95n0cpr37glv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "web3games.w3Wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
